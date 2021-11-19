@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning web development
 - 
 - 📫 How to reach me ...
-    Gmail-viveksankhyan441@gmail.com
+    Gmail:-
+    viveksankhyan441@gmail.com
