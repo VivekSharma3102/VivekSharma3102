@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
-<h3 align="center">An aspiring full stack developer</h3>
 
 <br/>
 <br/>
 
 <p align="left"> <a href="https://twitter.com/VivekSh87702838" target="blank"><img src="https://img.shields.io/twitter/follow/VivekSh87702838?logo=twitter&style=for-the-badge" alt="VivekSh87702838" /></a> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **React and JavaScript**
 
 - 📫 How to reach me **viveksankhyan441@gmail.com**
 
